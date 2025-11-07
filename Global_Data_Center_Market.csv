@@ -1,0 +1,11 @@
+metro,country,power_capacity_mw,land_cost_usd_per_sqft,vacancy_percent,hyperscaler_activity,cloud_demand_index,connectivity_score,year,readiness_score,Latitude,Longitude
+Dallas,USA,1200,22.5,6.2,High,95,90,2024,62.13,32.7767,-96.797
+London,UK,850,30.1,5,High,93,88,2024,60.09,51.5072,-0.1276
+Mumbai,India,700,12.4,8.1,Medium,89,80,2024,57.55,19.076,72.8777
+Singapore,Singapore,650,45,4.5,High,90,87,2024,57.15,1.3521,103.8198
+Tokyo,Japan,900,38.2,3.8,High,92,92,2024,60.2,35.6895,139.6917
+Frankfurt,Germany,780,28.7,5.7,Medium,88,85,2024,57.26,50.1109,8.6821
+Sydney,Australia,620,25.5,6,Medium,85,82,2024,55.45,-33.8688,151.2093
+Paris,France,710,29.8,5.3,Medium,86,84,2024,56.09,48.8566,2.3522
+Chicago,USA,1100,24.3,4.9,High,94,89,2024,61.38,41.8781,-87.6298
+Toronto,Canada,670,20.7,7.1,Medium,87,83,2024,56.92,43.6532,-79.3832
